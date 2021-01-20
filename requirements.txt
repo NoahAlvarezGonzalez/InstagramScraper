@@ -1,0 +1,4 @@
+streamlit
+pandas
+pybase64
+instaloader
