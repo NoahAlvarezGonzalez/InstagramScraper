@@ -19,5 +19,3 @@ Scrap any instagram account infos and return it into a CSV to the user
 * This list is converted into a CSV file
 * The CSV is displayed on screen and the user can choose to download it by pressing the Download button
 * If he does, an hyperlink appears and by clicking on it, he can download the CSV file
-
-# Result
